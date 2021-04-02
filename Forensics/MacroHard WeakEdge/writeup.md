@@ -4,10 +4,6 @@
 
 I've hidden a flag in this file. Can you find it? Forensics is fun.pptm
 
-**PROBLEM**
-
-There is a flag somewhere in the powerpoint. I would like to find it.
-
 **Hints** 
 
 (None)
