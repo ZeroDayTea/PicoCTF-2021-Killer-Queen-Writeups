@@ -2,11 +2,7 @@
 
 **Description**
 
-🥛
-
-**Problem**
-
-There is a flag somewhere on this website: http://mercury.picoctf.net:58537/. I would like it.
+# 🥛
 
 **Hints** 
 
@@ -14,8 +10,9 @@ Look at the problem category
 
 **Solution**
 
+The milk character in the description is linked to this website: http://mercury.picoctf.net:58537/
 The website consists of a gif with a man getting milk spilled on him. Since the hint references the problem category, which is forensics, we should find the image.
-Going to the source and then the css, we find that the image the image is at the url `http://mercury.picoctf.net:58537/concat_v.png`
+Going to the source and then the css, we find that the image the image is at the url http://mercury.picoctf.net:58537/concat_v.png
 
 The image is a 1280x47520 png. This is probably where the flag is. Downloading the image, we can now run various forensics programs on it. Steghide needs a password, so it isn't that.
 Binwalk finds nothing out of the ordinary. The program zsteg does find something though:
