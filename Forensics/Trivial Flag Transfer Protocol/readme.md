@@ -23,7 +23,7 @@ Instructions.txt: `TFTPDOESNTENCRYPTOURTRAFFICSOWEMUSTDISGUISEOURFLAGTRANSFER.FI
 
 plan: `IUSEDTHEPROGRAMANDHIDITWITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS`
 
-Interestingly, the offset for both of the files is +13, which is a ROT13 cipher.
+Interestingly, the offset for both of the ciphers is +13, which in hindsight should have been trivial because it is also a ROT13 cipher.
 
 The author of the plan used "the program", likely referring to steghide, with the password `DUEDILIGENCE`. We now have everything we need to find the flag.
 
