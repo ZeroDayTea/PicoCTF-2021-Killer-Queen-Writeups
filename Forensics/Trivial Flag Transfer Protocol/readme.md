@@ -14,7 +14,7 @@ There are 5 files. Saving them all and looking at them, there are 2 text files a
 
 bmp is a lossless and uncompressed format, so we will likely find the flag there. 
 
-A .deb file is an installation file, which 7zip can open. Inside, we find archive named data.tar.
+A .deb file is an installation file, which 7zip can open, for some reason. Inside, we find archive named data.tar.
 We can open this with `tar -xvf data.tar`. This extracts a directory. Searching through it we find a folder `usr/share/doc/steghide`. The flag is likely encrypted in one of the bmps with the steghide program, which needs a password. We are getting closer.
 
 Instructions.txt and plan are both text files with a bunch of letters that are all capitals. This could potentially a cipher, the first one that came to mind being a caesar cipher. Using a caesar cipher solver, we get these 2 messages from the files:
