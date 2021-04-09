@@ -11,23 +11,32 @@ This specific writeup is from Killer Queen.
 ### Binary Exploitation
 | Challenge | Point Value |
 | --------- | ----------- |
-|[BE01](./Binary/BE01.md)|[BM01](./Binary/BM01.md)|[BH01](./Binary/BH01.md)|[BX01](./Binary/BX01.md)|
-|[BE02](./Binary/BE02.md)|[BM02](./Binary/BM02.md)||[BX02](./Binary/BX02.md)|
-||[BM03](./Binary/BM03.md)|||
+|[Stonks](./BinaryExploitation/Stonks.md)|20|
+|[Cache Me Outside](./BinaryExploitation/CacheMeOutside.md)|70|
+|[Here's A LIBC](./BinaryExploitation/HeresALIBC.md)|90|
+|[Unsubscriptions Are Free](./BinaryExploitation/UnsubscriptionsAreFree.md)|100|
+|[filtered-shellcode](./BinaryExploitation/filtered-shellcode.md)|160|
+|[Kit Engine](./BinaryExploitation/KitEngine.md)|200|
 
 ### Cryptography
 | Challenge | Point Value |
 | --------- | ----------- |
-|[CM01](./Crypto/CM01.md)|[CH01](./Crypto/CH01.md)|[CX01](./Crypto/CX01.md)|
-|[CM02](./Crypto/CM02.md)|[CH02](./Crypto/CH02.md)||
 
 ### Forensics
 | Challenge | Point Value |
 | --------- | ----------- |
-|[FE01](./Forensics/FE01.md)|[FM01](./Forensics/FM01.md)|[FH01](./Forensics/FH01.md)|
-|[FE02](./Forensics/FE02.md)|[FM02](./Forensics/FM02.md)||
-|[FE03](./Forensics/FE03.md)|[FM03](./Forensics/FM03.md)||
-|[FE04](./Forensics/FE04.md)|||
+|[information](./BinaryExploitation/information.md)|10|
+|[Matryoshka Doll](./BinaryExploitation/MatryoshkaDoll.md)|10|
+|[tunn3l v1s10n](./BinaryExploitation/tunn3l v1s10n.md)|10|
+|[information](./BinaryExploitation/information.md)|10|
+|[information](./BinaryExploitation/information.md)|10|
+|[information](./BinaryExploitation/information.md)|10|
+|[information](./BinaryExploitation/information.md)|10|
+|[information](./BinaryExploitation/information.md)|10|
+|[information](./BinaryExploitation/information.md)|10|
+|[information](./BinaryExploitation/information.md)|10|
+|[information](./BinaryExploitation/information.md)|10|
+|[information](./BinaryExploitation/information.md)|10|
 
 ### General Skills
 | Challenge | Point Value |
