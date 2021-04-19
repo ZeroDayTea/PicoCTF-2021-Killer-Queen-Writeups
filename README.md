@@ -1,5 +1,5 @@
 # picoCTF - 2021
-March 16th - March 30th
+March 16th - March 30th, 2021
 
 Hosted by Carnegie Melon University
 
