@@ -8,7 +8,7 @@ These writeups are from Killer Queen which placed 9th in the US High School Lead
 
 > Want to play these challenges yourself? Head on over to the [picoCTF practice gym website](https://play.picoctf.org/practice).
 
-## Table of Contents (WIP)
+## Table of Contents 
 
 ### Binary Exploitation
 | Challenge | Point Value |
