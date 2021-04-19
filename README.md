@@ -70,7 +70,7 @@ These writeups are from Killer Queen which placed 9th in the US High School Lead
 |[GET aHEAD](./WebExploitation/GETaHEAD.md)|20|
 |[Cookies](./WebExploitation/Cookies.md)|40|
 |[Scavenger Hunt](./WebExploitation/ScavengerHunt.md)|50|
-|[Some Assembly Required 1](./Web Exploitation/SAR1.md)|70|
+|[Some Assembly Required 1](./WebExploitation/SAR1.md)|70|
 |[More Cookies](./WebExploitation/MoreCookies.md)|90|
 |[It is my Birthday](./WebExploitation/ItIsMyBirthday.md)|100|
 |[Who are you?](./WebExploitation/WhoAreYou.md)|100|
