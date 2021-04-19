@@ -43,10 +43,10 @@ These writeups are from Killer Queen which placed 9th in the US High School Lead
 |[information](./Forensics/information.md)|10|
 |[Matryoshka Doll](./Forensics/MatryoshkaDoll.md)|10|
 |[tunn3l_v1s10n](./Forensics/tunn3lv1s10n.md)|10|
-|[Wireshark doo dooo do doo...](./Forensics/Wireshark doo dooo do doo.md)|50|
+|[Wireshark doo dooo do doo...](./Forensics/Wiresharkdoodooododoo.md)|50|
 |[MacroHard WeakEdge](./Forensics/MacroHardWeakEdge.md)|60|
 |[Trivial Flag Transfer Protocol](./Forensics/TrivialFlagTransferProtocol.md)|90|
-|[Wireshark twoo twooo two twoo...](./Forensics/Wireshark twoo twooo two twoo.md)|100|
+|[Wireshark twoo twooo two twoo...](./Forensics/Wiresharktwootwoootwotwoo.md)|100|
 |[Disk, disk, sleuth!](./Forensics/Disk,disk,sleuth.md)|110|
 |[Milkslap](./Forensics/Milkslap.md)|120|
 |[Disk, disk, sleuth! II](./Forensics/Disk,disk,sleuth!II.md)|130|
@@ -91,7 +91,7 @@ These writeups are from Killer Queen which placed 9th in the US High School Lead
 |[Transformation](./ReverseEngineering/Transformation.md)|20|
 |[keygenme-py](./ReverseEngineering/keygenmepy.md)|30|
 |[crackme-py](./ReverseEngineering/crackmepy.md)|30|
-|[ARMssembly 0](./ReverseEngineering/ARMssembly 0.md)|40|
+|[ARMssembly 0](./ReverseEngineering/ARMssembly0.md)|40|
 |[speeds and feeds](./ReverseEngineering/SpeedsAndFeeds.md)|50|
 |[Shop](./ReverseEngineering/Shop.md)|50|
 |[ARMssembly 1](./ReverseEngineering/ARMssembly1.md)|70|
