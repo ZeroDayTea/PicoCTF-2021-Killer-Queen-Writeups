@@ -1,6 +1,8 @@
 # picoCTF - 2021
 March 16th - March 30th
 
+Hosted by Carnegie Melon University
+
 ## About
 These writeups are from Killer Queen which placed 9th in the US High School Leaderboard and 18th in the Global Leaderboard.
 
