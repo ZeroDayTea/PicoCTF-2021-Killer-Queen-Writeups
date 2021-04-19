@@ -40,68 +40,68 @@ These writeups are from Killer Queen which placed 9th in the US High School Lead
 ### Forensics
 | Challenge | Point Value |
 | --------- | ----------- |
-|[information](./BinaryExploitation/information.md)|10|
-|[Matryoshka Doll](./BinaryExploitation/MatryoshkaDoll.md)|10|
-|[tunn3l_v1s10n](./BinaryExploitation/tunn3lv1s10n.md)|10|
-|[Wireshark doo dooo do doo...](./BinaryExploitation/Wireshark doo dooo do doo.md)|50|
-|[MacroHard WeakEdge](./BinaryExploitation/MacroHardWeakEdge.md)|60|
-|[Trivial Flag Transfer Protocol](./BinaryExploitation/TrivialFlagTransferProtocol.md)|90|
-|[Wireshark twoo twooo two twoo...](./BinaryExploitation/Wireshark twoo twooo two twoo.md)|100|
-|[Disk, disk, sleuth!](./BinaryExploitation/Disk,disk,sleuth.md)|110|
-|[Milkslap](./BinaryExploitation/Milkslap.md)|120|
-|[Disk, disk, sleuth! II](./BinaryExploitation/Disk,disk,sleuth!II.md)|130|
-|[Surfing the Waves](./BinaryExploitation/SurfingTheWaves.md)|250|
-|[Very very very Hidden](./BinaryExploitation/VVVHidden.md)|300|
+|[information](./Forensics/information.md)|10|
+|[Matryoshka Doll](./Forensics/MatryoshkaDoll.md)|10|
+|[tunn3l_v1s10n](./Forensics/tunn3lv1s10n.md)|10|
+|[Wireshark doo dooo do doo...](./Forensics/Wireshark doo dooo do doo.md)|50|
+|[MacroHard WeakEdge](./Forensics/MacroHardWeakEdge.md)|60|
+|[Trivial Flag Transfer Protocol](./Forensics/TrivialFlagTransferProtocol.md)|90|
+|[Wireshark twoo twooo two twoo...](./Forensics/Wireshark twoo twooo two twoo.md)|100|
+|[Disk, disk, sleuth!](./Forensics/Disk,disk,sleuth.md)|110|
+|[Milkslap](./Forensics/Milkslap.md)|120|
+|[Disk, disk, sleuth! II](./Forensics/Disk,disk,sleuth!II.md)|130|
+|[Surfing the Waves](./Forensics/SurfingTheWaves.md)|250|
+|[Very very very Hidden](./Forensics/VVVHidden.md)|300|
 
 ### General Skills
 | Challenge | Point Value |
 | --------- | ----------- |
-|[Obedient Cat](./General Skills/ObedientCat.md)|5|
-|[Python Wrangling](./General Skills/PythonWrangling.md)|10|
-|[Wave a flag](./General Skills/WaveAFlag.md)|10|
-|[Nice netcat...](./General Skills/NiceNetcat.md)|15|
-|[Static ain't always noise](./General Skills/StaticAintAlwaysNoise.md)|20|
-|[Tab, Tab, Attack](./General Skills/TabTabAttack.md)|20|
-|[Magikarp Ground Mission](./General Skills/MagikarpGroundMission.md)|30|
+|[Obedient Cat](./GeneralSkills/ObedientCat.md)|5|
+|[Python Wrangling](./GeneralSkills/PythonWrangling.md)|10|
+|[Wave a flag](./GeneralSkills/WaveAFlag.md)|10|
+|[Nice netcat...](./GeneralSkills/NiceNetcat.md)|15|
+|[Static ain't always noise](./GeneralSkills/StaticAintAlwaysNoise.md)|20|
+|[Tab, Tab, Attack](./GeneralSkills/TabTabAttack.md)|20|
+|[Magikarp Ground Mission](./GeneralSkills/MagikarpGroundMission.md)|30|
 
 ### Web
 | Challenge | Point Value |
 | --------- | ----------- |
-|[GET aHEAD](./Web Exploitation/GETaHEAD.md)|20|
-|[Cookies](./Web Exploitation/Cookies.md)|40|
-|[Scavenger Hunt](./Web Exploitation/ScavengerHunt.md)|50|
+|[GET aHEAD](./WebExploitation/GETaHEAD.md)|20|
+|[Cookies](./WebExploitation/Cookies.md)|40|
+|[Scavenger Hunt](./WebExploitation/ScavengerHunt.md)|50|
 |[Some Assembly Required 1](./Web Exploitation/SAR1.md)|70|
-|[More Cookies](./Web Exploitation/MoreCookies.md)|90|
-|[It is my Birthday](./Web Exploitation/ItIsMyBirthday.md)|100|
-|[Who are you?](./Web Exploitation/WhoAreYou.md)|100|
-|[Some Assembly Required 2](./Web Exploitation/SAR2.md)|110|
-|[Super Serial](./Web Exploitation/SuperSerial.md)|130|
-|[MostCookies](./Web Exploitation/MostCookies.md)|150|
-|[Some Assembly Required 3](./Web Exploitation/SAR3.md)|160|
-|[Web Gauntlet 2](./Web Exploitation/WebGauntlet2.md)|170|
-|[Some Assembly Required 4](./Web Exploitation/SAR4.md)|200|
-|[X marks the spot](./Web Exploitation/XMarksTheSpot.md)|250|
-|[Web Gauntlet 3](./Web Exploitation/WebGauntlet3.md)|300|
-|[Bithug](./Web Exploitation/GETaHEAD.md)|500|
+|[More Cookies](./WebExploitation/MoreCookies.md)|90|
+|[It is my Birthday](./WebExploitation/ItIsMyBirthday.md)|100|
+|[Who are you?](./WebExploitation/WhoAreYou.md)|100|
+|[Some Assembly Required 2](./WebExploitation/SAR2.md)|110|
+|[Super Serial](./WebExploitation/SuperSerial.md)|130|
+|[MostCookies](./WebExploitation/MostCookies.md)|150|
+|[Some Assembly Required 3](./WebExploitation/SAR3.md)|160|
+|[Web Gauntlet 2](./WebExploitation/WebGauntlet2.md)|170|
+|[Some Assembly Required 4](./WebExploitation/SAR4.md)|200|
+|[X marks the spot](./WebExploitation/XMarksTheSpot.md)|250|
+|[Web Gauntlet 3](./WebExploitation/WebGauntlet3.md)|300|
+|[Bithug](./WebExploitation/GETaHEAD.md)|500|
 
 
 ### Reverse Engineering
 | Challenge | Point Value |
 | --------- | ----------- |
-|[Transformation](./Reverse Engineering/Transformation.md)|20|
-|[keygenme-py](./Reverse Engineering/keygenmepy.md)|30|
-|[crackme-py](./Reverse Engineering/crackmepy.md)|30|
-|[ARMssembly 0](./Reverse Engineering/ARMssembly 0.md)|40|
-|[speeds and feeds](./Reverse Engineering/SpeedsAndFeeds.md)|50|
-|[Shop](./Reverse Engineering/Shop.md)|50|
-|[ARMssembly 1](./Reverse Engineering/ARMssembly1.md)|70|
-|[ARMssembly 2](./Reverse Engineering/ARMssembly2.md)|90|
-|[Hurry up! Wait!](./Reverse Engineering/HurryUpWait.md)|100|
-|[gogo](./Reverse Engineering/gogo.md)|110|
-|[ARMssembly 3](./Reverse Engineering/ARMssembly3.md)|130|
-|[Let's get dynamic](./Reverse Engineering/LetsGetDynamic.md)|150|
-|[Easy as GDB](./Reverse Engineering/EasyAsGDB.md)|160|
-|[ARMssembly 4](./Reverse Engineering/ARMssembly4.md)|170|
-|[Powershelly](./Reverse Engineering/Powershelly.md)|180|
-|[Rolling My Own](./Reverse Engineering/RollingMyOwn.md)|300|
-|[Checkpass](./Reverse Engineering/Checkpass.md)|375|
+|[Transformation](./ReverseEngineering/Transformation.md)|20|
+|[keygenme-py](./ReverseEngineering/keygenmepy.md)|30|
+|[crackme-py](./ReverseEngineering/crackmepy.md)|30|
+|[ARMssembly 0](./ReverseEngineering/ARMssembly 0.md)|40|
+|[speeds and feeds](./ReverseEngineering/SpeedsAndFeeds.md)|50|
+|[Shop](./ReverseEngineering/Shop.md)|50|
+|[ARMssembly 1](./ReverseEngineering/ARMssembly1.md)|70|
+|[ARMssembly 2](./ReverseEngineering/ARMssembly2.md)|90|
+|[Hurry up! Wait!](./ReverseEngineering/HurryUpWait.md)|100|
+|[gogo](./ReverseEngineering/gogo.md)|110|
+|[ARMssembly 3](./ReverseEngineering/ARMssembly3.md)|130|
+|[Let's get dynamic](./ReverseEngineering/LetsGetDynamic.md)|150|
+|[Easy as GDB](./ReverseEngineering/EasyAsGDB.md)|160|
+|[ARMssembly 4](./ReverseEngineering/ARMssembly4.md)|170|
+|[Powershelly](./ReverseEngineering/Powershelly.md)|180|
+|[Rolling My Own](./ReverseEngineering/RollingMyOwn.md)|300|
+|[Checkpass](./ReverseEngineering/Checkpass.md)|375|
