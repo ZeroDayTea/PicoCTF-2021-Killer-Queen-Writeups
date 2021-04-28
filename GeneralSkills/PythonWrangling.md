@@ -25,5 +25,5 @@ python3 ende.py -d flag.txt.en
 
 ### Flag:
 ```
-picoCTF{s4n1ty_v3r1f13d_2aa22101}
+picoCTF{4p0110_1n_7h3_h0us3_67c6cc96}
 ```
