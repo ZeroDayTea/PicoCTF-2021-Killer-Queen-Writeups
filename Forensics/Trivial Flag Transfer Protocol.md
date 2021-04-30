@@ -5,10 +5,10 @@
 ### Description
 Figure out how they moved the flag.
 
-**Hints** 
+### Hints 
 What are some other ways to hide data?
 
-**SOLUTION**
+### Solution
 
 Searching on wikipedia, we see that TFTP is a protocol for transferring files. We open the pcap in wireshark and extract the files with TFTP. 
 There are 5 files. Saving them all and looking at them, there are 2 text files and 3 bmp files.
