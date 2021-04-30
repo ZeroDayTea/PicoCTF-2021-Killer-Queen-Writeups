@@ -1,15 +1,11 @@
 # Trivial Flag Transfer Protocol
+## Category - Forensics
+## Author - DANNY
 
-**Description**
-
+### Description
 Figure out how they moved the flag.
 
-**PROBLEM**
-
-There is a flag somewhere in the pcapng file.
-
 **Hints** 
-
 What are some other ways to hide data?
 
 **SOLUTION**
