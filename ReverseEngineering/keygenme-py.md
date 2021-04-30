@@ -6,7 +6,7 @@
 keygenme-trial.py
 
 ### Solution:
-The problem gives a file,after running and and playing with it for a bit, it shows that it is the "trial" version for a program, with a way to make it the full version. The parts that we are interested in are here:
+The problem gives a file, after running it and playing with it for a bit, it shows that it is the "trial" version for a program, with a way to make it the full version. The parts that we are interested in are here:
 
 ```
 username_trial = "MORTON"
