@@ -17,7 +17,7 @@ The website consists of a gif with a man getting milk spilled on him. Since the 
 Going to the source and then the css, we find that the image the image is at the url http://mercury.picoctf.net:58537/concat_v.png
 
 The image is a 1280x47520 png. This is probably where the flag is. Downloading the image, we can now run various forensics programs on it.
-We use zsteg on the image and find something interesting:
+After a while, we stumbled on zsteg and used it on the image:
 
 ```
 manifold@pwnmach1n3:~$ zsteg concat_v.png
