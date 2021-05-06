@@ -104,3 +104,4 @@ These writeups are from Killer Queen which placed 9th in the US High School Lead
 |[Scrambled: RSA](./Cryptography/ScrambledRSA.md)|140|
 |[It's Not My Fault 1](./Cryptography/ItsNotMyFault1.md)|300|
 |[New Vignere](./Cryptography/NewVignere.md)|300|
+|[It's Not My Fault 2](./Cryptography/ItsNotMyFault2.md)|400|
