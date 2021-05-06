@@ -6,8 +6,7 @@
 We found this file. Recover the flag.
 
 ### Solution:
-Seeing as the file is of an unknown file type we run exiftool on it to determine that it is a bitmap image (bmp). As the image does not display properly when we open it we figure
-it must be corrupted somehow:
+Seeing as the downloadable file named "tunn3lv1s1on" is of an unknown file type we run exiftool on it to determine that it is a bitmap image (bmp). The image does not display properly when we open it so we can figure it must be corrupted somehow:
 
 ```
 zerodaytea@Patryk:/mnt/d/Coding/CTFs/PicoCTF2021/Forensics/tunn3lv1s10n$ exiftool tunn3l_v1s10n
@@ -42,8 +41,7 @@ Rendering Intent                : Unknown (826103054)
 Image Size                      : 1134x306
 Megapixels                      : 0.347
 ```
-Finding this wikipedia article about the BMP file format we step through the hex bytes of the image and modify in an attempt to fix them. To do this I would reccomend using a 
-hex editor. Personally I use HexEditor Neo because it is free and I am familiar with it but any should work.
+Finding this wikipedia article about the BMP file format (https://en.wikipedia.org/wiki/BMP_file_format) we step through the hex bytes of the image and modify them in an attempt to un-corrupt the image. To do this I would reccomend using a hex editor. Personally I use HexEditor Neo because it is free and I am familiar with it but any should work just fine.
 ![Original Header Bytes](https://github.com/ZeroDayTea/PicoCTF-2021-Killer-Queen-Writeups/blob/main/Forensics/snip1.PNG)
 
 As seen in the screenshot the first few bytes of the header to the bitmap image are:
